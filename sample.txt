@@ -1,1 +1,0 @@
-Hello, my name is Shashank Nanda and I'm trying to make a dictionary that counts the number of unique characters
